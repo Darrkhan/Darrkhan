@@ -1,4 +1,4 @@
-# Hello, I'm Your Name! 👋
+# Hello, I'm Darrkhan!
 
 I'm a software developer passionate about coding and building awesome things.
 
@@ -6,7 +6,7 @@ I'm a software developer passionate about coding and building awesome things.
 - 💬 Ask me about Linux, networks, and cryptography.
 
 ## Distro
-![Arch Linux](https://img.shields.io/badge/-Arch_Linux-blue?style=for-the-badge&logo=arch-linux&logoColor=white)![Arch Linux](https://img.shields.io/badge/-Arch_Linux-blue?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/-Arch_Linux-blue?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 I run Arch Linux with the following configuration:
 
@@ -20,8 +20,9 @@ I run Arch Linux with the following configuration:
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Assembly](https://img.shields.io/badge/-assembly-008080?style=for-the-badge&logo=assembly&logoColor=white)
 
 ### Frameworks and Libraries
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
@@ -33,8 +34,6 @@ I run Arch Linux with the following configuration:
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-blueviolet?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-[Neovim](https://img.shields.io/badge/-Neovim-green?style=for-the-badge&logo=neovim&logoColor=white)
-
 ## Education
 - **Cybersecurity Student**
   [ISEN Lille](https://www.isen-lille.fr/)
