@@ -10,7 +10,7 @@ I'm a software developer passionate about coding and building awesome things.
 
 I run Void Linux with the following configuration:
 
-- **Window Manager:** [bspwm] (https://github.com/baskerville/bspwm)
+- **Window Manager:** [bspwm](https://github.com/baskerville/bspwm)
 - **Bar:** [polybar](https://github.com/kovidgoyal/kitty)
 - **Terminal:** [kitty](https://github.com/polybar/polybar) with Bash.
 
