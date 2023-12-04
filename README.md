@@ -6,13 +6,13 @@ I'm a software developer passionate about coding and building awesome things.
 - 💬 Ask me about Linux, networks, and cryptography.
 
 ## Distro
-![Arch Linux](https://img.shields.io/badge/-Arch_Linux-blue?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Void Linux](https://img.shields.io/badge/-Void_Linux-green?style=for-the-badge&logo=void_linux&logoColor=white)
 
-I run Arch Linux with the following configuration:
+I run Void Linux with the following configuration:
 
-- **Window Manager:** [dwm](https://dwm.suckless.org/)
-- **Bar:** [slstatus](https://tools.suckless.org/slstatus/)
-- **Terminal:** [st](https://st.suckless.org/) with Bash.
+- **Window Manager:** [bspwm] (https://github.com/baskerville/bspwm)
+- **Bar:** [polybar](https://github.com/kovidgoyal/kitty)
+- **Terminal:** [kitty](https://github.com/polybar/polybar) with Bash.
 
 
 ## Skills
@@ -23,6 +23,7 @@ I run Arch Linux with the following configuration:
 ![C](https://img.shields.io/badge/-c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-assembly-008080?style=for-the-badge&logo=assembly&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Frameworks and Libraries
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
