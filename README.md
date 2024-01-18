@@ -3,17 +3,16 @@
 I'm a software developer passionate about coding and building awesome things.
 
 - 🌱 I'm currently learning cybersecurity in ISEN Lille.
-- 💬 Ask me about Linux, networks, and cryptography.
+- 💬 Ask me about Linux, networks, and cybersecurity.
 
 ## Distro
-![Void Linux](https://img.shields.io/badge/-Void_Linux-green?style=for-the-badge&logo=void_linux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/-Arch_Linux-blue?style=for-the-badge&logo=arch_linux&logoColor=white)
 
-I run Void Linux with the following configuration:
+I run Arch Linux with the following configuration:
 
-- **Window Manager:** [bspwm](https://github.com/baskerville/bspwm)
-- **Bar:** [polybar](https://github.com/kovidgoyal/kitty)
-- **Terminal:** [kitty](https://github.com/polybar/polybar) with Bash.
-
+- **Window Manager:** [Hyprland](https://github.com/hyprwm/Hyprland)
+- **Bar:** [waybar](https://github.com/Alexays/Waybar)
+- **Terminal:** [kitty](https://github.com/kovidgoyal/kitty)
 
 ## Skills
 
@@ -35,6 +34,7 @@ I run Void Linux with the following configuration:
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-blueviolet?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 ## Education
 - **Cybersecurity Student**
   [ISEN Lille](https://www.isen-lille.fr/)
