@@ -3,6 +3,7 @@
 I'm a software developer passionate about coding and building awesome things.
 
 - 🌱 I'm currently learning cybersecurity in ISEN Lille.
+- 🔭 I’m currently working on my Java skills.
 - 💬 Ask me about Linux, networks, and cybersecurity.
 
 ## Distro
