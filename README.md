@@ -9,8 +9,6 @@ I'm a software developer passionate about coding and building awesome things.
 ## Distro
 ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-blue?style=for-the-badge&logo=arch_linux&logoColor=white)
 
-I run Arch Linux with the following configuration:
-
 - **Window Manager:** [Hyprland](https://github.com/hyprwm/Hyprland)
 - **Bar:** [waybar](https://github.com/Alexays/Waybar)
 - **Terminal:** [kitty](https://github.com/kovidgoyal/kitty)
