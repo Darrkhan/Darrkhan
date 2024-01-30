@@ -7,7 +7,7 @@ I'm a software developer passionate about coding and building awesome things.
 - 💬 Ask me about Linux, networks, and cybersecurity.
 
 ## Distro
-![Arch Linux](https://img.shields.io/badge/-Arch_Linux-blue?style=for-the-badge&logo=arch_linux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/-Arch_Linux-blue?style=for-the-badge&logo=archlinux&logoColor=white)  ![Void Linux](https://img.shields.io/badge/-Void_Linux-green?style=for-the-badge&logo=voidlinux&logoColor=white)
 
 - **Window Manager:** [Hyprland](https://github.com/hyprwm/Hyprland)
 - **Bar:** [waybar](https://github.com/Alexays/Waybar)
