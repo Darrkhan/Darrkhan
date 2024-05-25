@@ -2,8 +2,9 @@
 
 I'm a software developer passionate about coding and building awesome things.
 
-- 🌱 I'm currently learning cybersecurity in ISEN Lille.
-- 🔭 I’m currently working on my Java skills.
+- 🌱 I'm currently doing an internship in software development.
+- 🔭 I’m currently learning about self-hosting.
+- 🚀 I'm currently working on my cybersecurity skills.
 - 💬 Ask me about Linux, networks, and cybersecurity.
 
 ## Distro
@@ -29,10 +30,13 @@ I'm a software developer passionate about coding and building awesome things.
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-red?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-blueviolet?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Idea](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
 
 ## Education
 - **Cybersecurity Student**
